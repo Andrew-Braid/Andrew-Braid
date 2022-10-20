@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Andrew-Braid
 - 👀 I’m interested in Java
+- 👀 I’m interested in Jenkins
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything new
 - 📫 How to reach me andrew.braid@aol.com
